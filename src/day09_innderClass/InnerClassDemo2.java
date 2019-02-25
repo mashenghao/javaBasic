@@ -19,7 +19,7 @@ package day09_innderClass;
  */
 
 /**
- * 外部类
+ * 外部类  
  */
 class Out1{
 	
