@@ -30,6 +30,7 @@ public class Demo1 {
 		String str = "abda";
 		str.indexOf("aa");
 		str.contains("aa");
-	}
+		str.replace("a","DSB");
+ 	}
 	
 }
